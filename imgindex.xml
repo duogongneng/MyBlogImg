@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>小康博客</title>
+    <icon>https://www.gravatar.com/avatar/43f423034161c1234e49b8b8a075d8e0</icon>
+    <subtitle>每天进步一点点！</subtitle>
+    <link href="/atom.xml" rel="self" />
+    <link href="https://www.antmoe.com/" />
+    <updated>2020-10-01T15:01:50.323Z</updated>
+    <id>https://www.antmoe.com/</id>
+    <author>
+        <name>Dreamy.TZK</name>
+        <email>sviptzk@163.com</email>
+    </author>
+    <generator uri="https://hexo.io/">Hexo</generator>
+    <entry>
+        <title>hexo博客每天定时提交网址给百度</title>
+        <link href="https://www.antmoe.com/posts/b5e29de/index.html" />
+        <id>https://www.antmoe.com/posts/b5e29de/index.html</id>
+        <published>2020-10-01T13:36:25.000Z</published>
+        <updated>2020-10-01T15:01:50.323Z</updated>
+        <content type="html">内容</content>
+        <summary type="html">
+            <h2 id="项目说明">
+            <a class="markdownIt-Anchor" href="#项目说明"></a>项目说明</h2>
+            <p>首先说明下这是一个hexo的插件，和其他插件一样，只需要 
+            <code>npm i</code>即可安装。先说说我的需求：需求产生于建站 
+            <category term="Project" scheme="https://www.antmoe.com/categories/Project/" />
+            <category term="SEO" scheme="https://www.antmoe.com/tags/SEO/" /></p>
+        </summary>
+    </entry>
+</feed>
